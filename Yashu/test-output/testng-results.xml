@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20758" started-at="2022-01-24T07:57:50Z" finished-at="2022-01-24T07:58:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20758" started-at="2022-01-24T07:57:50Z" finished-at="2022-01-24T07:58:10Z">
+      <class name="testscript.InstaLogin">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testscript.InstaLogin@13deb50e]" name="launchBrowser" is-config="true" duration-ms="6624" started-at="2022-01-24T07:57:50Z" finished-at="2022-01-24T07:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="validLaogin()[pri:0, instance:testscript.InstaLogin@13deb50e]" name="validLaogin" duration-ms="9837" started-at="2022-01-24T07:57:56Z" finished-at="2022-01-24T07:58:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLaogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testscript.InstaLogin@13deb50e]" name="closeBrowser" is-config="true" duration-ms="4266" started-at="2022-01-24T07:58:06Z" finished-at="2022-01-24T07:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testscript.InstaLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
